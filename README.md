@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [yusufcmlt.github.io](yusufcmlt.github.io)
 
-- 💬 Ask me about **React,SASS**
+- 💬 Ask me about **React,SASS** (and get 'i don't know as an answer)
 
 - 📫 How to reach me **6ziyv3vuq@relay.firefox.com**
 
