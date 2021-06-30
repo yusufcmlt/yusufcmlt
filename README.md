@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [yusufcmlt.github.io](yusufcmlt.github.io)
+- 👨‍💻 Some of my projects are available at [yusufcmlt.github.io](yusufcmlt.github.io)
 
 - 💬 Ask me about **React,SASS** (and get 'i don't know as an answer)
 
