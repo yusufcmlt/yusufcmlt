@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58252790/123675632-a0fcc900-d84b-11eb-8d6d-c1a52e1e42d2.gif" />
+  <img src="https://c.tenor.com/4Spqr1waLjIAAAAd/coding-humor.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">I'm a student/front-end web dev, currently located in Turkey.</h3>
