@@ -5,11 +5,16 @@
 <h4 align="center">I'm a front-end web dev, currently located in Turkey.</h4>
 
 <p align="center" ><span align="center">
-<a href="https://yusufcmlt.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="yusufcemaltokmak" /></a>
+<a href="https://yusufcmlt.github.io" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="web" /></a>
 </span>
 <span align="center">
-<a href="https://linkedin.com/in/yusufcemaltokmak" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="yusufcemaltokmak" /></a>
-</span></p>
+<a href="https://linkedin.com/in/yusufcemaltokmak" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+</span>
+<span align="center">
+<a href="mailto:6ziyv3vuq@relay.firefox.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail" /></a>
+</span>
+  
+</p>
 
 ---
 
