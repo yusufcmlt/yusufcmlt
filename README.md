@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/58252790/131265676-82ab7985-220b-4e5e-b4fb-cab1e2846ef0.gif" width="300" height="300" />
+  <img src="https://user-images.githubusercontent.com/58252790/131265676-82ab7985-220b-4e5e-b4fb-cab1e2846ef0.gif" width="250" height="250" />
 </p>
 
 <!-- About-START -->
@@ -74,20 +74,20 @@
   <a href="https://github.com/yusufcmlt/product-return-service-app" target="blank">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yusufcmlt&repo=product-return-service-app&theme=aura_dark" alt="product-return-service" />
   </a>
-  <a href="https://linkedin.com/in/yusufcemaltokmak" target="blank">
+  <a href="https://github.com/yusufcmlt/patika-react-bootcamp" target="blank">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yusufcmlt&repo=patika-react-bootcamp&theme=aura_dark" alt="bootcamp-works" />
   </a>
 
   <!-- PROJECTS-SECOND-ROW -->
   
-  
+ 
  <img  width="400" src="https://user-images.githubusercontent.com/58252790/141175159-433913a2-5e06-41c0-94a7-3d6f662e2f59.png" alt="react-e-commerce" />
   <img  width="400" src="https://user-images.githubusercontent.com/58252790/141177233-2ecd2f06-bdeb-4b22-97ef-6b96e0a895b2.png" alt="drawing-game" />
  
-  <a href="https://linkedin.com/in/yusufcemaltokmak" target="blank">
+  <a href="https://github.com/yusufcmlt/ecommmerce-react" target="blank">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yusufcmlt&repo=ecommmerce-react&theme=aura_dark" alt="react-e-commerce" />
   </a>
-  <a href="https://linkedin.com/in/yusufcemaltokmak" target="blank">
+  <a href="https://github.com/yusufcmlt/cizim-oyunu" target="blank">
     <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=yusufcmlt&repo=cizim-oyunu&theme=aura_dark" alt="drawing-game" />
   </a>
   
