@@ -4,7 +4,7 @@
 
 <!-- About-START -->
 
-<h1 align="left">Hello 👋, I'm Yusuf Cemal</h1>
+<h1 align="left">Hello 👋, I'm Yusuf</h1>
 
 <p align="left" >
   <span align="left">
